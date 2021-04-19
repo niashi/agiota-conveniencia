@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Mathias\Desktop\Generation - Exercícios\GitHub - Projetos\agiota-conveniencia\.metadata\.plugins\org.eclipse.jdt.core
+1853542707.index
+209488768.index
